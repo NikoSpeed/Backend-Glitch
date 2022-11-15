@@ -1,0 +1,21 @@
+[
+{
+    "title": "Manzana",
+    "price": 80,
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/vegan-flat/340/vegetarian_vegan_tomato_vegetable_food_organic_healthy_plant-512.png",
+    "id":1
+},
+
+{
+    "title": "Pera",
+    "price": 50,
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/vegan-flat/340/vegetarian_vegan_food_pear_fruit_leaf_healthy-512.png",
+    "id":2
+},
+{
+    "title": "Sandia",
+    "price": 120,
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/vegan-flat/340/vegetarian_vegan_watermelon_fruit_sweet_dessert_food_juicy_healthy_melon-512.png",
+    "id":3
+}
+]
